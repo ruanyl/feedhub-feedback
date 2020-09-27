@@ -3,7 +3,7 @@ This repository is used to collect FeedHub user feedbacks.
 
 FeedHub is a productivity tool designed for developers to stay close to news of dev community.
 
-### FeedHub has realtime news from the community you are interested
+### Subscribe to news from the topics you are interested
 ![NewsPage](https://user-images.githubusercontent.com/486382/94315327-f9382f00-ff8a-11ea-92a1-3f5f4d8c644a.png)
 
 ### FeedHub is also a RSS reader
